@@ -1,2 +1,2 @@
 # Image-Classification
-This repository focuses on image classification tasks, featuring various datasets such as MNIST. It demonstrates the process of training models to classify images using different machine learning techniques.
+This repository focuses on brain tumor image classification using a publicly available dataset from Figshare. It demonstrates the end-to-end process of training machine learning models to detect and classify brain tumors from MRI images using various classification techniques.
